@@ -158,3 +158,11 @@
 04/10/2023 09:18:33 AM - INFO - test_homePageTitle : ****************Test_001_Login********************
 04/10/2023 09:18:33 AM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
 04/10/2023 09:18:35 AM - INFO - test_homePageTitle : ****************Home Page Title test is Passed********************
+04/10/2023 03:09:22 PM - INFO - Test_005_DeleteCusstomer : *********Launching website**********
+04/10/2023 03:09:29 PM - INFO - Test_005_DeleteCusstomer : *********Login Successful**********
+04/10/2023 03:12:47 PM - INFO - Test_005_DeleteCusstomer : *********Launching website**********
+04/10/2023 03:12:53 PM - INFO - Test_005_DeleteCusstomer : *********Login Successful**********
+04/10/2023 03:15:25 PM - INFO - Test_005_DeleteCusstomer : *********Launching website**********
+04/10/2023 03:15:33 PM - INFO - Test_005_DeleteCusstomer : *********Login Successful**********
+04/10/2023 03:15:42 PM - INFO - Test_005_DeleteCusstomer : ****************Delete Customer Validation********************
+04/10/2023 03:15:42 PM - INFO - Test_005_DeleteCusstomer : ****************Delete Customer Test Passed********************
