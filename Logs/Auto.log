@@ -1,0 +1,160 @@
+04/07/2023 04:48:24 PM - INFO - test_homePageTitle : ****************Test_001_Login********************
+04/07/2023 04:48:24 PM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
+04/07/2023 04:48:26 PM - INFO - test_homePageTitle : ****************Home Page Title test is Passed********************
+04/07/2023 04:48:29 PM - INFO - test_login : ****************Veryfying Login Test********************
+04/07/2023 04:48:37 PM - INFO - test_login : ****************Login test is Passed********************
+04/07/2023 05:22:19 PM - INFO - test_homePageTitle : ****************Test_001_Login********************
+04/07/2023 05:22:19 PM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
+04/07/2023 05:22:21 PM - INFO - test_homePageTitle : ****************Home Page Title test is Passed********************
+04/07/2023 05:22:24 PM - INFO - test_login : ****************Veryfying Login Test********************
+04/07/2023 05:22:29 PM - INFO - test_login : ****************Login test is Passed********************
+04/07/2023 05:23:01 PM - INFO - test_homePageTitle : ****************Test_001_Login********************
+04/07/2023 05:23:01 PM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
+04/07/2023 05:23:05 PM - INFO - test_homePageTitle : ****************Home Page Title test is Passed********************
+04/07/2023 05:23:15 PM - INFO - test_login : ****************Veryfying Login Test********************
+04/07/2023 05:23:24 PM - INFO - test_login : ****************Login test is Passed********************
+04/07/2023 05:23:56 PM - INFO - test_homePageTitle : ****************Test_001_Login********************
+04/07/2023 05:23:56 PM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
+04/07/2023 05:26:54 PM - INFO - test_homePageTitle : ****************Test_001_Login********************
+04/07/2023 05:26:54 PM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
+04/07/2023 05:28:18 PM - INFO - test_homePageTitle : ****************Test_001_Login********************
+04/07/2023 05:28:18 PM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
+04/07/2023 05:28:19 PM - INFO - test_homePageTitle : ****************Home Page Title test is Passed********************
+04/07/2023 05:28:24 PM - INFO - test_login : ****************Veryfying Login Test********************
+04/07/2023 05:28:31 PM - INFO - test_login : ****************Login test is Passed********************
+04/08/2023 11:16:10 AM - INFO - test_login : ****************Veryfying Login Test********************
+
+04/08/2023 11:16:10 AM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
+04/08/2023 11:16:11 AM - INFO - test_homePageTitle : ****************Home Page Title test is Passed********************
+04/08/2023 11:16:19 AM - INFO - test_login : ****************Login test is Passed********************
+04/08/2023 11:25:48 AM - INFO - test_homePageTitle : ****************Test_001_Login********************
+04/08/2023 11:25:48 AM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
+04/08/2023 11:25:48 AM - INFO - test_login : ****************Veryfying Login Test********************
+04/08/2023 11:25:50 AM - INFO - test_homePageTitle : ****************Home Page Title test is Passed********************
+04/08/2023 11:25:57 AM - INFO - test_login : ****************Login test is Passed********************
+04/08/2023 11:27:16 AM - INFO - test_homePageTitle : ****************Test_001_Login********************
+04/08/2023 11:27:17 AM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
+04/08/2023 11:27:17 AM - INFO - test_login : ****************Veryfying Login Test********************
+04/08/2023 11:27:19 AM - INFO - test_homePageTitle : ****************Home Page Title test is Passed********************
+04/08/2023 11:27:24 AM - INFO - test_login : ****************Login test is Passed********************
+04/08/2023 12:19:11 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 12:19:11 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 12:19:19 PM - INFO - test_login_ddt : ********Passed********
+04/08/2023 12:19:22 PM - INFO - test_login_ddt : ********Passed********
+04/08/2023 12:19:23 PM - INFO - test_login_ddt : ********Passed********
+04/08/2023 12:19:24 PM - INFO - test_login_ddt : ********Passed********
+04/08/2023 12:19:24 PM - INFO - test_login_ddt : ****************Login ddt Test Case Passed********************
+04/08/2023 02:01:29 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:01:29 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:04:11 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:04:11 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:08:19 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:08:19 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:14:09 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:14:09 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:14:59 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:14:59 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:15:25 PM - INFO - test_login_ddt : ******Passed*******
+04/08/2023 02:15:52 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:15:52 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:16:16 PM - INFO - test_login_ddt : ******Passed*******
+04/08/2023 02:17:34 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:17:34 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:18:05 PM - INFO - test_login_ddt : ******Passed*******
+04/08/2023 02:22:19 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:22:19 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:22:48 PM - INFO - test_login_ddt : ******Passed*******
+04/08/2023 02:23:46 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:23:46 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:24:15 PM - INFO - test_login_ddt : ******Passed*******
+04/08/2023 02:24:22 PM - INFO - test_login_ddt : ******Failed*******
+04/08/2023 02:31:24 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:31:24 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:31:35 PM - INFO - test_login_ddt : ********Passed********
+04/08/2023 02:31:42 PM - INFO - test_login_ddt : ********Passed********
+04/08/2023 02:31:49 PM - INFO - test_login_ddt : ********Passed********
+04/08/2023 02:31:54 PM - INFO - test_login_ddt : ********Passed********
+04/08/2023 02:31:54 PM - INFO - test_login_ddt : ****************Login ddt Test Case Passed********************
+04/08/2023 02:32:12 PM - INFO - test_login_ddt : ****************Test_002_Login_DDT********************
+04/08/2023 02:32:12 PM - INFO - test_login_ddt : ****************Veryfying Login ddt Test********************
+04/08/2023 02:32:40 PM - INFO - test_login_ddt : ******Passed*******
+04/08/2023 02:32:47 PM - INFO - test_login_ddt : ******Failed*******
+04/09/2023 09:42:49 AM - INFO - test_login : **************Test_003_Login************
+04/09/2023 09:42:49 AM - INFO - test_login : ************ veryfying login Test*********
+04/09/2023 09:42:50 AM - INFO - test_login : *************Login test passed**********
+04/09/2023 09:42:53 AM - INFO - test_homePageTitle : ************ veryfying home page title*********
+04/09/2023 09:42:59 AM - INFO - test_homePageTitle : *************home page title test passed**********
+04/09/2023 09:44:19 AM - INFO - test_login : **************Test_003_Login************
+04/09/2023 09:44:19 AM - INFO - test_login : ************ veryfying login Test*********
+04/09/2023 09:44:21 AM - INFO - test_login : *************Login test passed**********
+04/09/2023 09:44:23 AM - INFO - test_homePageTitle : ************ veryfying home page title*********
+04/09/2023 09:44:28 AM - INFO - test_homePageTitle : *************home page title test passed**********
+04/09/2023 12:21:35 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 12:21:41 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 12:21:41 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 12:22:20 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 12:22:25 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 12:22:25 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 12:22:54 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 12:22:59 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 12:22:59 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 12:23:57 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 12:24:05 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 12:24:05 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 12:28:04 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 12:28:11 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 12:28:11 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 12:29:16 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 12:29:22 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 12:29:22 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 12:46:54 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 12:47:01 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 12:47:01 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 01:15:20 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 01:15:29 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 01:15:29 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 01:20:51 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 01:20:57 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 01:20:57 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 01:38:55 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 01:39:01 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 01:39:01 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 01:39:39 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 01:39:45 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 01:39:45 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 01:55:46 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 01:55:53 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 01:55:53 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 01:56:08 PM - INFO - Test_003_AddCustomer : ****************Saving Customer Info********************
+04/09/2023 01:56:08 PM - INFO - Test_003_AddCustomer : ****************Add Customer Validation********************
+04/09/2023 01:56:09 PM - INFO - Test_003_AddCustomer : ****************Add Customer Test Passed********************
+04/09/2023 01:56:09 PM - INFO - Test_003_AddCustomer : ****************Add Customer Test Completed********************
+04/09/2023 03:02:37 PM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/09/2023 03:02:43 PM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/09/2023 03:02:43 PM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/09/2023 03:02:58 PM - INFO - Test_003_AddCustomer : ****************Saving Customer Info********************
+04/09/2023 03:02:58 PM - INFO - Test_003_AddCustomer : ****************Add Customer Validation********************
+04/09/2023 03:02:58 PM - INFO - Test_003_AddCustomer : ****************Add Customer Test Passed********************
+04/09/2023 03:02:58 PM - INFO - Test_003_AddCustomer : ****************Add Customer Test Completed********************
+04/09/2023 03:51:58 PM - INFO - Test_004_SearchCustomerByEmail : ****************Test_004_SearchCustomerByEmail********************
+04/09/2023 03:52:06 PM - INFO - Test_004_SearchCustomerByEmail : ****************Login Successful********************
+04/09/2023 03:52:06 PM - INFO - Test_004_SearchCustomerByEmail : ****************Search Customer********************
+04/09/2023 03:52:11 PM - INFO - Test_004_SearchCustomerByEmail : ****************Search Customer Test By Email is passed********************
+04/09/2023 03:52:25 PM - INFO - Test_004_SearchCustomerByEmail : ****************Test_004_SearchCustomerByEmail********************
+04/09/2023 03:52:32 PM - INFO - Test_004_SearchCustomerByEmail : ****************Login Successful********************
+04/09/2023 03:52:32 PM - INFO - Test_004_SearchCustomerByEmail : ****************Search Customer********************
+04/09/2023 03:52:36 PM - INFO - Test_004_SearchCustomerByEmail : ****************Search Customer Test By Email is passed********************
+04/09/2023 03:55:37 PM - INFO - Test_005_SearchCustomerByName : ****************Test_005_SearchCustomerByName********************
+04/09/2023 03:55:42 PM - INFO - Test_005_SearchCustomerByName : ****************Login Successful********************
+04/09/2023 03:55:42 PM - INFO - Test_005_SearchCustomerByName : ****************Search Customer********************
+04/09/2023 03:55:47 PM - INFO - Test_005_SearchCustomerByName : ****************Search Customer Test By Name is passed********************
+04/10/2023 09:18:06 AM - INFO - Test_003_AddCustomer : ****************Test_003_AddCustomer********************
+04/10/2023 09:18:14 AM - INFO - Test_003_AddCustomer : ****************Login Successful********************
+04/10/2023 09:18:14 AM - INFO - Test_003_AddCustomer : ****************Add Customer Info********************
+04/10/2023 09:18:30 AM - INFO - Test_003_AddCustomer : ****************Saving Customer Info********************
+04/10/2023 09:18:30 AM - INFO - Test_003_AddCustomer : ****************Add Customer Validation********************
+04/10/2023 09:18:30 AM - INFO - Test_003_AddCustomer : ****************Add Customer Test Passed********************
+04/10/2023 09:18:31 AM - INFO - Test_003_AddCustomer : ****************Add Customer Test Completed********************
+04/10/2023 09:18:33 AM - INFO - test_homePageTitle : ****************Test_001_Login********************
+04/10/2023 09:18:33 AM - INFO - test_homePageTitle : ****************Veryfying Home Page Title********************
+04/10/2023 09:18:35 AM - INFO - test_homePageTitle : ****************Home Page Title test is Passed********************
